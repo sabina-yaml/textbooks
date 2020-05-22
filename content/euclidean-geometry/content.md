@@ -309,7 +309,7 @@ congruent, and some shapes might not be congruent to _any_ others:
 Two line segments are congruent if they [[have the same length|intersect]]. Two
 angles are congruent if they [[have the same size|meet at a point]] (in degrees).
 
-Note the that _“congruent”_ does not mean _“equal”_. For example, congruent
+Note that the _“congruent”_ does not mean _“equal”_. For example, congruent
 lines and angles don’t have to point in the same direction. Still, _congruence_
 has many of the same properties of _equality_:
 
