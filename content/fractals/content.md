@@ -407,7 +407,7 @@ we have removed some of these. The Menger sponge consists of [[20]] copies of
 itself, which are 3 times smaller.
 
 {.reveal(when="blank-1")} Now we can try to calculate the dimension _d_ of the
-Menger sponge just like we did for the Koch snowflake above. In this case we get
+Menger sponge just like we did for the Koch snowflake above. In this case, we get
 `3^d = 20`, or `§d = log_3(20) ≈ 2.727`. 
 
 :::
@@ -1191,7 +1191,7 @@ you might notice a curious property:
 :::
 
 {.reveal(when="blank-3")} Every bulb has a differently-sized orbit, with smaller
-bulbs having more and more points in their orbits. The size of these orbits are
+bulbs having more and more points in their orbits. The sizes of these orbits are
 closely related to the __Logistic Map__, an important concept in [Chaos
 theory](/course/chaos).
 
