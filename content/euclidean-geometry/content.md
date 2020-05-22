@@ -309,7 +309,7 @@ congruent, and some shapes might not be congruent to _any_ others:
 Two line segments are congruent if they [[have the same length|intersect]]. Two
 angles are congruent if they [[have the same size|meet at a point]] (in degrees).
 
-Note the that _“congruent”_ does not mean _“equal”_. For example, congruent
+Note that the _“congruent”_ does not mean _“equal”_. For example, congruent
 lines and angles don’t have to point in the same direction. Still, _congruence_
 has many of the same properties of _equality_:
 
@@ -509,7 +509,7 @@ geometry, for example to calculate areas and volumes.
 ::: column.grow
 However, at the times of Thales or Euclid, there wasn’t a universal framework of
 units like we have today. Distances were often measured using body parts, for
-example finger widths, or arm lengths. These are not very accurate and they vary
+example, finger widths, or arm lengths. These are not very accurate and they vary
 for different people.
 
 To measure longer distances, architects or surveyors used _knotted cords_: long
@@ -541,7 +541,7 @@ drawings are always just “approximations”.
 
     figure: img(src="images/divider-1.svg" width=760 height=42)
 
-Euclid’ axioms basically tell us _what’s possible_ in his version of geometry.
+Euclid’s axioms basically tell us _what’s possible_ in his version of geometry.
 It turns out that we just need two very simple tools to be able to sketch this
 on paper:
 
@@ -702,8 +702,7 @@ edge of the cube will increase by a factor of `root(2,3)`.
 
 This still sounds pretty simple, but doubling the cube is actually impossible
 in [Euclidean geometry](gloss:euclidean-geometry), using only straight-edge and
-compass! For the citizens of Delos this unfortunately meant that all hope was
-lost. There are two other constructions that are famously impossible.
+compass! Unfortunately, for the citizens of Delos this meant that all hope was lost. There are two other constructions that are famously impossible.
 Mathematicians devoted a great amount of time trying to find a solution – but
 without success:
 
